@@ -1,0 +1,17 @@
+Philiop;22
+Philip;21
+Frida;15
+Philip;12
+Philip;10
+Philip;10
+Philip;9
+Jerry;5
+null;5
+philip;3
+robin;3
+philip;3
+Philip;2
+Inte sara;2
+Janne;1
+Inte Philip;1
+Frida;0
